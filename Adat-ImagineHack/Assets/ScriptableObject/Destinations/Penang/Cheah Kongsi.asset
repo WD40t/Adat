@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96607fa465eca8c49a281b003237cb5a, type: 3}
+  m_Name: Cheah Kongsi
+  m_EditorClassIdentifier: 
+  name: Cheah Kongsi
+  shortDescription: "Established in 1810, Cheah Kongsi is one of George Town\u2019s
+    oldest Hokkien clan houses, tracing its roots to Fujian, China. Its ornate temple,
+    completed in 1873, honors ancestral heroes and patron deities, reflecting rich
+    Chinese heritage and Straits-style architecture.\r\r"
+  ticketPrice: 5
+  latitude: 5.415397885011539
+  longitude: 100.33830166290613
+  mainImage: {fileID: -5381136179108994727, guid: c26f328c7627e794c89b01eb465e3703, type: 3}
+  image1: {fileID: 0}
+  image2: {fileID: 0}
+  description: 
+  cultureTag: 1
+  locationType: 1

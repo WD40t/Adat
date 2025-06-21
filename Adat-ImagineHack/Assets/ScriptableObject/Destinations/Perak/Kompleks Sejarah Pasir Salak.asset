@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96607fa465eca8c49a281b003237cb5a, type: 3}
+  m_Name: Kompleks Sejarah Pasir Salak
+  m_EditorClassIdentifier: 
+  name: Kompleks Sejarah Pasir Salak
+  shortDescription: "The Pasir Salak Historical Complex commemorates the 1875 assassination
+    of British Resident J.W\\.W. Birch\u2014an event that sparked Malay resistance
+    and inspired future nationalist movements\u2014through diorama exhibits, restored
+    traditional Malay architecture, and monuments honoring Perak\u2019s heroes and
+    heritage.\r"
+  ticketPrice: 5
+  latitude: 4.173373703948998
+  longitude: 100.94731038776112
+  mainImage: {fileID: 8225124761559161680, guid: bd43f05ea4be8d346a5a3be54482f9e2, type: 3}
+  image1: {fileID: 0}
+  image2: {fileID: 0}
+  description: 
+  cultureTag: 1
+  locationType: 1

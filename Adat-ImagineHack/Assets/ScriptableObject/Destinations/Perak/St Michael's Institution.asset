@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96607fa465eca8c49a281b003237cb5a, type: 3}
+  m_Name: St Michael's Institution
+  m_EditorClassIdentifier: 
+  name: St Michael's Institution
+  shortDescription: "Saint Michael\u2019s Institution, established in 1912 in Ipoh
+    by the La Sallian brothers, is a historic school known for its grand colonial-era
+    architecture and legacy of educational excellence, with its iconic main building
+    designed by Brother Vernier Auguste completed in 1927.\r"
+  ticketPrice: 5
+  latitude: 4.600063303792284
+  longitude: 101.07761206632436
+  mainImage: {fileID: -5212007817711324490, guid: b45de66e47444c24c88ebb2eaf90fba5, type: 3}
+  image1: {fileID: 0}
+  image2: {fileID: 0}
+  description: 
+  cultureTag: 1
+  locationType: 1

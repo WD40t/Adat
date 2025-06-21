@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96607fa465eca8c49a281b003237cb5a, type: 3}
+  m_Name: Gua Kelam
+  m_EditorClassIdentifier: 
+  name: Gua Kelam
+  shortDescription: "One of Malaysia\u2019s most unique limestone caves, the 370-meter-long
+    cave at Kaki Bukit offers an adventurous, illuminated cave walk through a historic
+    tin transport route, followed by a visit to the vibrant cross-border Wang Kelian
+    Sunday Market nearby.\r"
+  ticketPrice: 5
+  latitude: 6.645723807200672
+  longitude: 100.2026096641178
+  mainImage: {fileID: 4132406812581578071, guid: 5188dfe2919d09d4ebdc4c228a80ffd4, type: 3}
+  image1: {fileID: 0}
+  image2: {fileID: 0}
+  description: 
+  cultureTag: 1
+  locationType: 1
