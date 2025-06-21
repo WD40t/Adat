@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96607fa465eca8c49a281b003237cb5a, type: 3}
+  m_Name: Sultan's Well
+  m_EditorClassIdentifier: 
+  name: 'Sultan''s Well, Perigi Hang Li Poh '
+  shortDescription: Built in the 15th century, this historic water well is now a
+    sightseeing attraction.
+  ticketPrice: 1000
+  latitude: 2.1979341894085977
+  longitude: 102.25531267518583
+  mainImage: {fileID: -8916663770351031119, guid: 875c035d901fa3f45a8d4583508d6e3a, type: 3}
+  image1: {fileID: 2580988539998276095, guid: a21ce2f8d6c72944e99767a0c7f3248e, type: 3}
+  image2: {fileID: 0}
+  description: Yes Test
+  cultureTag: 0
+  locationType: 1

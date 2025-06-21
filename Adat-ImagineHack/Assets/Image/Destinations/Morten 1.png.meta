@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 36f2874cde035ea43a870eac5c710dca
+guid: e8519188dfce48f4a8640bc2e4d7c64e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4473345572188471339
-    second: 397718ae-092c-4ad8-8250-a6b137993e78_0
+      213: -1258281889630228214
+    second: Morten 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 397718ae-092c-4ad8-8250-a6b137993e78_0
+      name: Morten 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 388
-        height: 326
+        width: 395
+        height: 296
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b204cdbd814841e30800000000000000
-      internalID: 4473345572188471339
+      spriteID: a01784db94fa98ee0800000000000000
+      internalID: -1258281889630228214
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      397718ae-092c-4ad8-8250-a6b137993e78_0: 4473345572188471339
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

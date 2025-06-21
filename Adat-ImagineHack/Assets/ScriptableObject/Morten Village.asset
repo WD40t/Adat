@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96607fa465eca8c49a281b003237cb5a, type: 3}
+  m_Name: Morten Village
+  m_EditorClassIdentifier: 
+  name: Morten Village
+  shortDescription: Kampung Morten is a historically traditional Malay village in
+    Malacca City Centre in the Malaysian state of Malacca. It is named after a British
+    land revenue collector during the British Malaya, Frederick Joseph Morten.
+  ticketPrice: 5
+  latitude: 2.2056617673471064
+  longitude: 102.24993700507338
+  mainImage: {fileID: -1258281889630228214, guid: e8519188dfce48f4a8640bc2e4d7c64e, type: 3}
+  image1: {fileID: 2148098895015985250, guid: 923d61f21c2b9314b8e840d814e4d9a0, type: 3}
+  image2: {fileID: 2188536798892843768, guid: 4ae0907ee972913498d576ae57b0ee2f, type: 3}
+  description: Yes Test
+  cultureTag: 1
+  locationType: 1

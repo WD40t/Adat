@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96607fa465eca8c49a281b003237cb5a, type: 3}
+  m_Name: Masjid Selat Melaka
+  m_EditorClassIdentifier: 
+  name: Masjid Selat Melaka
+  shortDescription: Gold-domed place of worship with a dramatic modernist facade,
+    overlooking the Strait of Malacca.
+  ticketPrice: 5
+  latitude: 2.179262893127476
+  longitude: 102.24933727945444
+  mainImage: {fileID: -6385434018496716275, guid: dd0a9ce0bc652884d97f4e35084a8271, type: 3}
+  image1: {fileID: 5352447570798938448, guid: e2183a14e77813845adfeab636918be3, type: 3}
+  image2: {fileID: 0}
+  description: Yes Test
+  cultureTag: 3
+  locationType: 0
