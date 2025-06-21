@@ -2146,9 +2146,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Skip
-
-'
+  m_text: Back
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 96bc19976cae861409e8282f72bee8d7, type: 2}
   m_sharedMaterial: {fileID: -6083785749612544095, guid: 96bc19976cae861409e8282f72bee8d7, type: 2}
@@ -2919,7 +2917,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Like
+  m_text: Donate
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 96bc19976cae861409e8282f72bee8d7, type: 2}
   m_sharedMaterial: {fileID: -6083785749612544095, guid: 96bc19976cae861409e8282f72bee8d7, type: 2}
@@ -2946,7 +2944,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 64.6
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1

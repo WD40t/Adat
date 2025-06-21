@@ -5,7 +5,6 @@ public class Location : ScriptableObject
 {
     [Header("Main Details")]
     public string name;
-    public string distance;
     [TextArea(3, 100)]
     public string shortDescription;
     public float ticketPrice;
