@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 94917316451a9e744ba5ad0a27f0b5ac
+guid: 6ee0d89f366eec04a8c500d2481bb7d6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6745079882357573756
-    second: e638f0ec-8a11-4b4d-b47d-0bbd35d1e77b_0
+      213: 2515756853433005628
+    second: Pahang_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: e638f0ec-8a11-4b4d-b47d-0bbd35d1e77b_0
+      name: Pahang_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 1020
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 487717e7599a462a0800000000000000
-      internalID: -6745079882357573756
+      spriteID: c36f0267783c9e220800000000000000
+      internalID: 2515756853433005628
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      e638f0ec-8a11-4b4d-b47d-0bbd35d1e77b_0: -6745079882357573756
+      Pahang_0: 2515756853433005628
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

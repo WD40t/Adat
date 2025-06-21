@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 94917316451a9e744ba5ad0a27f0b5ac
+guid: 738e8cc876d6383418db9f7dd036f032
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6745079882357573756
-    second: e638f0ec-8a11-4b4d-b47d-0bbd35d1e77b_0
+      213: 2174586550466695947
+    second: Perak_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: e638f0ec-8a11-4b4d-b47d-0bbd35d1e77b_0
+      name: Perak_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 900
+        height: 600
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 487717e7599a462a0800000000000000
-      internalID: -6745079882357573756
+      spriteID: b03d8e932fead2e10800000000000000
+      internalID: 2174586550466695947
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      e638f0ec-8a11-4b4d-b47d-0bbd35d1e77b_0: -6745079882357573756
+      Perak_0: 2174586550466695947
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
