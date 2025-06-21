@@ -18,6 +18,8 @@ public class SaveDestination : MonoBehaviour
     public Location StartLocation { get; private set; }
     public Location EndLocation { get; private set; }
 
+    public int picked;
+
     void Awake()
     {
         if (Instance != null && Instance != this)
@@ -132,5 +134,9 @@ public class SaveDestination : MonoBehaviour
         }
 
         Debug.Log($"[SaveDestination] Day 1: {day1Location.Count}, Day 2: {day2Location.Count}");
+    }
+    public void choosePicked(int picked2)
+    {
+        picked = picked2;
     }
 }

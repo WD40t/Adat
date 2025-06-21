@@ -15,10 +15,10 @@ MonoBehaviour:
   name: 'Sultan''s Well, Perigi Hang Li Poh '
   shortDescription: Built in the 15th century, this historic water well is now a
     sightseeing attraction.
-  ticketPrice: 1000
+  ticketPrice: 8
   latitude: 2.1979341894085977
   longitude: 102.25531267518583
-  mainImage: {fileID: -8916663770351031119, guid: 875c035d901fa3f45a8d4583508d6e3a, type: 3}
+  mainImage: {fileID: -3402816046540829602, guid: f35d4b801da1b4f4a95ff6b09faae031, type: 3}
   image1: {fileID: 2580988539998276095, guid: a21ce2f8d6c72944e99767a0c7f3248e, type: 3}
   image2: {fileID: 0}
   description: Yes Test

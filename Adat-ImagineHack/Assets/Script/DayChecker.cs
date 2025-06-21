@@ -28,4 +28,8 @@ public class DayChecker : MonoBehaviour
             day2.gameObject.SetActive(false);
         }
     }
+    public void payment(int number)
+    {
+        SaveDestination.Instance.choosePicked(number);
+    }
 }

@@ -31,20 +31,20 @@ public class CharterManager : MonoBehaviour
     {
         var locations = SaveDestination.Instance.day1Location;
 
-        text1.text = locations.Count > 0 ? locations[0].name : "";
-        text2.text = locations.Count > 1 ? locations[1].name : "";
-        text3.text = locations.Count > 2 ? locations[2].name : "";
-        text4.text = locations.Count > 3 ? locations[3].name : "";
+        text1.text = locations.Count > 0 ? "[S] " + locations[0].name : "";
+        text2.text = locations.Count > 1 ? "[1] " + locations[1].name : "";
+        text3.text = locations.Count > 2 ? "[2] " + locations[2].name : "";
+        text4.text = locations.Count > 3 ? "[3] " + locations[3].name : "";
     }
 
     public void LoadDay2()
     {
         var locations = SaveDestination.Instance.day2Location;
 
-        text1.text = locations.Count > 0 ? locations[0].name : "";
-        text2.text = locations.Count > 1 ? locations[1].name : "";
-        text3.text = locations.Count > 2 ? locations[2].name : "";
-        text4.text = locations.Count > 3 ? locations[3].name : "";
+        text1.text = locations.Count > 0 ? "[S] " + locations[0].name : "";
+        text2.text = locations.Count > 1 ? "[1] " + locations[1].name : "";
+        text3.text = locations.Count > 2 ? "[2] " + locations[2].name : "";
+        text4.text = locations.Count > 3 ? "[3] " + locations[3].name : "";
     }
 
     public void ShowDay1Map()

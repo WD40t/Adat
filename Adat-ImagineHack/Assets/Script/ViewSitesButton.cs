@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class ViewSitesButton : MonoBehaviour
 {
-    public Button viewSite;
+    public GameObject viewSite;
 
     // Update is called once per frame
     void Update()

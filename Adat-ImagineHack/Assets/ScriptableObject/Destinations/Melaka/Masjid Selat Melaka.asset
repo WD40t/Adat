@@ -18,7 +18,7 @@ MonoBehaviour:
   ticketPrice: 5
   latitude: 2.179262893127476
   longitude: 102.24933727945444
-  mainImage: {fileID: -6385434018496716275, guid: dd0a9ce0bc652884d97f4e35084a8271, type: 3}
+  mainImage: {fileID: 3678585918576870135, guid: 7e84b2ebe5e69104ca81b6555147a28f, type: 3}
   image1: {fileID: 5352447570798938448, guid: e2183a14e77813845adfeab636918be3, type: 3}
   image2: {fileID: 0}
   description: Yes Test
