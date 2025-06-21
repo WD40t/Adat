@@ -24,9 +24,6 @@ public class ButtonShowcase : MonoBehaviour
     {
         if (location == null) return;
 
-        if (nameText != null)
-            nameText.text = location.name;
-
         if (mainImage != null)
             mainImage.sprite = location.mainImage;
     }

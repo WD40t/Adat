@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Penang_0: -5381136179108994727
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

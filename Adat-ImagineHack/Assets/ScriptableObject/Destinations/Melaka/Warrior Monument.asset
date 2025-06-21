@@ -12,17 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96607fa465eca8c49a281b003237cb5a, type: 3}
   m_Name: Warrior Monument
   m_EditorClassIdentifier: 
-  name: Melaka Warrior Monument For The Chinese Victims of Anti Japanese Occupation
-  shortDescription: "The Melaka Warrior Monument\u2014officially the Melaka Warrior
-    Monument for the Chinese Victims of Anti\u2011Japanese Occupation\u2014is a solemn
-    WWII memorial at the foot of Bukit Cina in Malacca, erected in 1948 to honor
-    Chinese civilians massacred during the Japanese occupation; it bears a calligraphic
-    inscription by Chiang Kai\u2011shek reading \u201Ctheir loyalty can be taken
-    as an exemplar,\u201D and was restored in 1972"
+  name: Melaka Warrior Monument
+  shortDescription: The 1948 Melaka Warrior Monument at Bukit Cina honors Chinese
+    victims of the Japanese occupation.
   ticketPrice: 5
   latitude: 2.1956581614939714
   longitude: 102.25556049484823
-  mainImage: {fileID: -7113530429158685674, guid: a489db1c29e5460419eef19367b3ffd9, type: 3}
+  mainImage: {fileID: 221685098384354260, guid: 1ce23241ca1b35547bff02f65fca3f6f, type: 3}
   image1: {fileID: 4968406572664027656, guid: 96120a1cabc19dc4c8019188d9d11653, type: 3}
   image2: {fileID: 7644965898566194355, guid: e9ce191f5d8118640ab695ca8529e28f, type: 3}
   description: Yes Test

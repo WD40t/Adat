@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: Morten Village
   m_EditorClassIdentifier: 
   name: Morten Village
-  shortDescription: Kampung Morten is a historically traditional Malay village in
-    Malacca City Centre in the Malaysian state of Malacca. It is named after a British
-    land revenue collector during the British Malaya, Frederick Joseph Morten.
+  shortDescription: Kampung Morten is a traditional Malay village in Malacca City,
+    named after British land revenue collector Frederick Joseph Morten during the
+    British Malaya era.
   ticketPrice: 5
   latitude: 2.2056617673471064
   longitude: 102.24993700507338
-  mainImage: {fileID: -1258281889630228214, guid: e8519188dfce48f4a8640bc2e4d7c64e, type: 3}
+  mainImage: {fileID: 5292355029250875985, guid: 171fe23a7cb9d564a881959adb487f2b, type: 3}
   image1: {fileID: 2148098895015985250, guid: 923d61f21c2b9314b8e840d814e4d9a0, type: 3}
   image2: {fileID: 2188536798892843768, guid: 4ae0907ee972913498d576ae57b0ee2f, type: 3}
   description: Yes Test

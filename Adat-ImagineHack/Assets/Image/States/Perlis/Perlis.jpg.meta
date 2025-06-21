@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Perlis_0: 7414227364852221712
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
