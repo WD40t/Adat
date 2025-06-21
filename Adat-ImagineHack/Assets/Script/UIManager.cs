@@ -91,6 +91,8 @@ public class UIManager : MonoBehaviour
         }
 
         UpdateLikeButtonState();
+        ShowNextLocation();
+        SaveDestination.Instance.DistributeLocations();
     }
 
     /// <summary>
