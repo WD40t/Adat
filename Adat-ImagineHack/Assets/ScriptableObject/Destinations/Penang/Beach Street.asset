@@ -10,17 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 96607fa465eca8c49a281b003237cb5a, type: 3}
-  m_Name: Baba Nyonya
+  m_Name: Beach Street
   m_EditorClassIdentifier: 
-  name: Jalan Tan Hiok Nee
-  shortDescription: "Artifacts & exhibits exploring the history of local Chinese
-    Malays in a large, ornate home.\r"
-  ticketPrice: 15
-  latitude: 2.1955526113022006
-  longitude: 102.246733964966
-  mainImage: {fileID: -5565060424868496178, guid: 33d3aa3f8fecf3c4fa6199f6ce8a8184, type: 3}
+  name: 'Beach Street  '
+  shortDescription: "Beach Street, one of George Town\u2019s oldest roads, is a historic
+    and architectural gem that remains a key commercial hub and tourist attraction
+    within the UNESCO World Heritage Site.\r"
+  ticketPrice: 5
+  latitude: 5.4153126135926914
+  longitude: 100.33916101290603
+  mainImage: {fileID: -1240603598350808439, guid: 7426e34d89d338d46aeb320c35cf4ec8, type: 3}
   image1: {fileID: 0}
   image2: {fileID: 0}
-  description: Yes Test
+  description: 
   cultureTag: 1
   locationType: 1

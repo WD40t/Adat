@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96607fa465eca8c49a281b003237cb5a, type: 3}
+  m_Name: The Blue Mansion
+  m_EditorClassIdentifier: 
+  name: The Blue Mansion
+  shortDescription: "The Blue Mansion offers a 45-minute guided tour through its
+    historic architecture and key areas, with guests invited to further experience
+    its charm by staying, dining at Indigo, or enjoying a drink at the bar.\r"
+  ticketPrice: 5
+  latitude: 5.421600326306587
+  longitude: 100.33517234543993
+  mainImage: {fileID: -5206317906842037228, guid: 7b78e0daac8ae7f4c8221d9a95ee0e51, type: 3}
+  image1: {fileID: 0}
+  image2: {fileID: 0}
+  description: 
+  cultureTag: 1
+  locationType: 1

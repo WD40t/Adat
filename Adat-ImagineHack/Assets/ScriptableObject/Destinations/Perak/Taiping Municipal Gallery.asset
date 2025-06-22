@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 96607fa465eca8c49a281b003237cb5a, type: 3}
-  m_Name: Baba Nyonya
+  m_Name: Taiping Municipal Gallery
   m_EditorClassIdentifier: 
-  name: Jalan Tan Hiok Nee
-  shortDescription: "Artifacts & exhibits exploring the history of local Chinese
-    Malays in a large, ornate home.\r"
-  ticketPrice: 15
-  latitude: 2.1955526113022006
-  longitude: 102.246733964966
-  mainImage: {fileID: -5565060424868496178, guid: 33d3aa3f8fecf3c4fa6199f6ce8a8184, type: 3}
+  name: Taiping Municipal Gallery
+  shortDescription: "Kellie\u2019s Castle: A historic gem in Perak, showcasing unique
+    Moorish, Indian, and Romanesque architecture.\r"
+  ticketPrice: 5
+  latitude: 4.854913107595713
+  longitude: 100.74141785729442
+  mainImage: {fileID: -722034929546173293, guid: 6ea0b828267bffd40a59b45716a8db30, type: 3}
   image1: {fileID: 0}
   image2: {fileID: 0}
-  description: Yes Test
+  description: 
   cultureTag: 1
   locationType: 1
